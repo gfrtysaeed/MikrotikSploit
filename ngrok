@@ -1,0 +1,42 @@
+# MikrotikSploit
+pkg update 
+
+$ pkg install -y 
+
+git pkg install unzip
+
+$ git clone https://github.com/sadamshr3be/MikrotikSploit.git 
+
+$ cd MikrotikSploit 
+
+unzip build.zip 
+
+rm -rf conan-fire.zip 
+
+
+$ chmod +x setup.py
+
+
+$ ./setup.py install 
+
+$ python3 -m pip install -r requirements.txt 
+
+
+$ python3 MikrotikSploit.py
+
+
+بعد تشغيل اداة اكتب 3
+راح طلب مـڼـڱ موقع الشبكة الذي الخاص في الكروت
+مثل يكون comاو net الخاص في الشبكة الذي انَـَY O U ـَتَ فاتح ‏​‏​منـِْهـ♡ـِْا
+
+http://a.net
+وكتبه ولصق خلي الهجوم شغال وخذ الايبي الخاص في الشبكة مثل هَـَْـُذآ
+
+
+
+https://19216811.best/
+
+
+
+
+راح يدخلك الي لوحة التحكم في الشبكة اسم المستخدم تكتب ادمن وكلمة السر تكتب باسورد انجليزي لآزٍمٍ ومبروك عليك 
